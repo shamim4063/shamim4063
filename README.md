@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular, NextJs, NodeJs, MongoDB, Docker, Jenkins, AWS.
+- 🔭 I’m currently working on Angular, NextJs, NodeJs, Dotnet Core, MongoDB, Docker, Jenkins, AWS.
 - 🌱 I’m currently learning Design Pattern, WebRTC, SpringBoot, JUnit, Mokito, Microservice
 - 👯 I’m looking to collaborate on Java and Angular based packajes
 - 🤔 I’m looking for help with Spring Boot Microservice
